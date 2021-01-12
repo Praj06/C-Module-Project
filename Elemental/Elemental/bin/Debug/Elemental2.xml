@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<ArrayOfGL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GL>
+    <name>Alkali Metals</name>
+    <atomicweight>
+	The alkali metals are the elements located in group IA of the periodic table (the first column). The key characteristic these elements share in common is that they all have one electron in the outer electron shell. This lone electron is loosely bound, making this a set of reactive metallic elements.
+	</atomicweight>
+    <meltingp>Melting and Boiling Points of Alkali Metals</meltingp>
+    <image>	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\Alkali.jpg</image>
+    <prop>Properties of Alkali Metals</prop>
+    <properties>
+1.The lone outer shell electrons leads the alkali metal elements to share several common properties.
+2.The one outer electron is easily lost, forming the univalent (1+) cation (e.g., Na+).
+3.Alkali metals are typically less dense than other metals.
+4.Atoms of alkali metals have the largest atomic radii of elements in their periods.
+5.Alkali metals are highly reactive elements. In particular, they readily react with halogens and other nonmetals. The pure metals react with oxygen in air and with water. As you move down the group, reactivity increases. A piece of sodium metal in water will burn; a piece of cesium metal in water will explode.
+6.Atoms have low ionization energies.
+7.Alkali metal atoms have low electronegativity values.
+8.Unlike most metals, alkali metals tend to be soft and have low melting points. You can cut sodium metal with a butter knife. The melting point of cesium is low enough it will melt from the heat of your hand or in a warm room.
+9.Like other metals, alkali metals tend to be shiny and metallic in appearance, as well as good conductors of electricity and heat.
+</properties>
+  </GL>
+  <GL>
+    <name>Alkaline Metals</name>
+    <atomicweight>
+	The alkaline earth metals are six chemical elements in group 2 of the periodic table. The elements have very similar properties: they are all shiny, silvery-white, somewhat reactive metals at standard temperature and pressure.
+	</atomicweight>
+    <meltingp>Melting and Boiling Points of Alkaline Metals</meltingp>
+    <image>C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\Alkaline.jpg</image>
+    <prop>Properities of Alkaline Metals</prop>
+    <properties>
+1.All the discovered alkaline earth metals occur in nature, although radium occurs only through the decay chain of uranium and thorium and not as a primordial element.
+2.There have been experiments, all unsuccessful, to try to synthesize element 120, the next potential member of the group.
+3.The alkaline earth metals are all silver-colored and soft, and have relatively low densities, melting points, and boiling points.
+4.In chemical terms, all of the alkaline earth metals react with the halogens to form the alkaline earth metal halides, all of which are ionic crystalline compounds.
+5.All the alkaline earth metals except beryllium also react with water to form strongly alkaline hydroxides and, thus, should be handled with great care. The heavier alkaline earth metals react more vigorously than the lighter ones.
+6.The alkaline earth metals have the second-lowest first ionization energies in their respective periods of the periodic table because of their somewhat low effective nuclear charges and the ability to attain a full outer shell configuration by losing just two electrons.
+7.All compounds that include beryllium have a covalent bond.
+8.Even the compound beryllium fluoride, which is the most ionic beryllium compound, has a low melting point and a low electrical conductivity when melted.
+9.All the alkaline earth metals have two electrons in their valence shell, so the energetically preferred state of achieving a filled electron shell is to lose two electrons to form doubly charged positive ions.
+  </properties>
+  </GL>
+  <GL>
+    <name>Halogens</name>
+    <atomicweight>
+	The name "halogen" means "salt-producing". When halogens react with metals, they produce a wide range of salts, including calcium fluoride, sodium chloride (common table salt), silver bromide and potassium iodide.
+	</atomicweight>
+    <meltingp>Melting and Boiling Points of Halogens</meltingp>
+    <image>C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\Halogen.jpg</image>
+    <prop>Properities of Halogens</prop>
+    <properties>
+1.The halogens are a group in the periodic table consisting of five chemically related elements
+2.The group of halogens is the only periodic table group that contains elements in three of the main states of matter at standard temperature and pressure.
+3.All of the halogens form acids when bonded to hydrogen. Most halogens are typically produced from minerals or salts.
+4.Some inorganic chemistry textbooks include La with the lanthanides and Ac with the actinides.
+5.The middle halogens—chlorine, bromine, and iodine—are often used as disinfectants. Organobromides are the most important class of flame retardants, while elemental halogens are dangerous and can be lethally toxic.
+6.Hydrochloric acid was known to alchemists and early chemists. However, elemental chlorine was not produced until 1774, when Carl Wilhelm Scheele heated hydrochloric acid with manganese dioxide.
+7.Scheele called the element "dephlogisticated muriatic acid", which is how chlorine was known for 33 years. In 1807, Humphry Davy investigated chlorine and discovered that it is an actual element.
+8.Chlorine combined with hydrochloric acid, as well as sulfuric acid in certain instances created chlorine gas which was a poisonous gas during World War I.
+9.It displaced oxygen in contaminated areas and replaced common oxygenated air with the toxic chlorine gas.
+</properties>
+  </GL>
+  <GL>
+    <name>Noble Gases</name>
+    <atomicweight>
+	The noble gases make up a group of chemical elements with similar properties; under standard conditions, they are all odorless, colorless, monatomic gases with very low chemical reactivity.
+	</atomicweight>
+    <meltingp>Melting and Boiling Points of Noble Gases</meltingp>
+    <image>C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\Noble gases.jpg</image>
+    <prop>Properities of Noble Gases</prop>
+    <properties>
+1.For the first six periods of the periodic table, the noble gases are exactly the members of group 18
+2.Noble gases are typically highly unreactive except when under particular extreme conditions.
+3.The inertness of noble gases makes them very suitable in applications where reactions are not wanted.
+4.The properties of the noble gases can be well explained by modern theories of atomic structure: their outer shell of valence electrons is considered to be "full", giving them little tendency to participate in chemical reactions, and it has been possible to prepare only a few hundred noble gas compounds.
+5.The melting and boiling points for a given noble gas are close together, differing by less than 10 °C (18 °F); that is, they are liquids over only a small temperature range.
+6.Neon, argon, krypton, and xenon are obtained from air in an air separation unit using the methods of liquefaction of gases and fractional distillation.
+7.Helium is sourced from natural gas fields that have high concentrations of helium in the natural gas, using cryogenic gas separation techniques, and radon is usually isolated from the radioactive decay of dissolved radium, thorium, or uranium compounds.
+8.Noble gases have several important applications in industries such as lighting, welding, and space exploration.
+9.Noble gas is translated from the German noun Edelgas, first used in 1898 by Hugo Erdmann to indicate their extremely low level of reactivity.</properties>
+  </GL>
+</ArrayOfGL>

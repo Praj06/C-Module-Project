@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+<ArrayOfPT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PT>
+    <eid>1</eid>
+    <name>H</name>
+    <fname>Hydrogen Element</fname>
+    <atomicweight>1.00794</atomicweight>
+    <meltingpoint>13.81 K (-259.34°C or -434.81°F)</meltingpoint>
+    <boilingpoint>20.28 K (-252.87°C or -423.17°F)</boilingpoint>
+    <density>0.00008988 grams per cubic centimeter</density>
+    <phaseatroomtemp>Gas</phaseatroomtemp>
+    <classification>Non-metal</classification>
+    <periodnumber>1</periodnumber>
+    <groupnumber>1</groupnumber>
+    <groupname>none</groupname>
+    <historyanduses>
+-Scientists had been producing hydrogen for years before it was recognized as an element. Written records indicate that Robert Boyle produced hydrogen gas as early as 1671 while experimenting with iron and acids. Hydrogen was first recognized as a distinct element by Henry Cavendish in 1766.
+-Composed of a single proton and a single electron, hydrogen is the simplest and most abundant element in the universe. It is estimated that 90% of the visible universe is composed of hydrogen.
+-Hydrogen is the raw fuel that most stars 'burn' to produce energy. The same process, known as fusion, is being studied as a possible power source for use on earth. The sun's supply of hydrogen is expected to last another 5 billion years.
+-Hydrogen is a commercially important element. Large amounts of hydrogen are combined with nitrogen from the air to produce ammonia (NH3) through a process called the Haber process. Hydrogen is also added to fats and oils, such as peanut oil, through a process called hydrogenation. Liquid hydrogen is used in the study of superconductors and, when combined with liquid oxygen, makes an excellent rocket fuel.
+-Hydrogen has three common isotopes. The simplest isotope, called protium, is just ordinary hydrogen. The second, a stable isotope called deuterium, was discovered in 1932. The third isotope, tritium, was discovered in 1934.
+</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\H.png
+	</image>
+  </PT>
+  <PT>
+    <eid>2</eid>
+    <name>Li</name>
+    <fname>Lithium Element</fname>
+    <atomicweight>6.941</atomicweight>
+    <meltingpoint>453.65 K (180.50°C or 356.90°F)</meltingpoint>
+    <boilingpoint>1615 K (1342°C or 2448°F)</boilingpoint>
+    <density>0.534 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Metal</classification>
+    <periodnumber>2</periodnumber>
+    <groupnumber>1</groupnumber>
+    <groupname>Alkali Metal</groupname>
+    <historyanduses>
+-Lithium was discovered in the mineral petalite (LiAl(Si2O5)2) by Johann August Arfvedson in 1817. It was first isolated by William Thomas Brande and Sir Humphrey Davy through the electrolysis of lithium oxide (Li2O). Today, larger amounts of the metal are obtained through the electrolysis of lithium chloride (LiCl). Lithium is not found free in nature and makes up only 0.0007% of the earth's crust.
+-Many uses have been found for lithium and its compounds. Lithium has the highest specific heat of any solid element and is used in heat transfer applications. It is used to make special glasses and ceramics, including the Mount Palomar telescope's 200 inch mirror. Lithium is the lightest known metal and can be alloyed with aluminium, copper, manganese, and cadmium to make strong, lightweight metals for aircraft. Lithium hydroxide (LiOH) is used to remove carbon dioxide from the atmosphere of spacecraft. Lithium stearate (LiC18H35O2) is used as a general purpose and high temperature lubricant. Lithium carbonate (Li2CO3) is used as a drug to treat manic depression disorder.
+-Lithium reacts with water, but not as violently as sodium.
+</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\ALI.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>3</eid>
+    <name>K</name>
+    <fname>Potassium Element</fname>
+    <atomicweight>39.0983</atomicweight>
+    <meltingpoint>336.53 K (63.38°C or 146.08°F)</meltingpoint>
+    <boilingpoint>1032 K (759°C or 1398°F)</boilingpoint>
+    <density>0.89 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Metal</classification>
+    <periodnumber>4</periodnumber>
+    <groupnumber>1</groupnumber>
+    <groupname>Alkali Metal</groupname>
+    <historyanduses>
+-Although potassium is the eighth most abundant element on earth and comprises about 2.1% of the earth's crust, it is a very reactive element and is never found free in nature. Metallic potassium was first isolated by Sir Humphry Davy in 1807 through the electrolysis of molten caustic potash (KOH). A few months after discovering potassium, Davy used the same method to isolate sodium. Potassium can be obtained from the minerals sylvite (KCl), carnallite (KCl·MgCl2·6H2O), langbeinite (K2Mg2(SO4)3) and polyhalite (K2Ca2Mg(SO4)4·2H2O). These minerals are often found in ancient lake and sea beds. Caustic potash, another important source of potassium, is primarily mined in Germany, New Mexico, California and Utah.
+-Pure potassium is a soft, waxy metal that can be easily cut with a knife. It reacts with oxygen to form potassium superoxide (KO2) and with water to form potassium hydroxide (KOH), hydrogen gas and heat. Enough heat is produced to ignite the hydrogen gas. To prevent it from reacting with the oxygen and water in the air, samples of metallic potassium are usually stored submerged in mineral oil.
+-Potassium forms an alloy with sodium (NaK) that is used as a heat transfer medium in some types of nuclear reactors.
+-Potassium forms many important compounds. Potassium chloride (KCl) is the most common potassium compound. It is used in fertilizers, as a salt substitute and to produce other chemicals. Potassium hydroxide (KOH) is used to make soaps, detergents and drain cleaners. Potassium carbonate (KHCO3), also known as pearl ash, is used to make some types of glass and soaps and is obtained commercially as a byproduct of the production of ammonia. Potassium superoxide (KO2) can create oxygen from water vapor (H2O) and carbon dioxide (CO2) through the following reaction: 2KO2 + H2O + 2CO2 =&gt; 2KHCO3 + O2. It is used in respiratory equipment and is produced by burning potassium metal in dry air. Potassium nitrate (KNO3), also known as saltpeter or nitre, is used in fertilizers, match heads and pyrotechnics.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\AK.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>4</eid>
+    <name>Be</name>
+    <fname>Beryllium Element</fname>
+    <atomicweight>9.0121831</atomicweight>
+    <meltingpoint>1560 K (1287°C or 2349°F)</meltingpoint>
+    <boilingpoint>2744 K (2471°C or 4480°F)</boilingpoint>
+    <density>1.85 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Metal</classification>
+    <periodnumber>2</periodnumber>
+    <groupnumber>2</groupnumber>
+    <groupname>Alkaline Earth Metal</groupname>
+    <historyanduses>
+-Although emeralds and beryl were known to ancient civilizations, they were first recognized as the same mineral (Be3Al2(SiO3)6) by Abbé Haüy in 1798. Later that year, Louis-Nicholas Vauquelin, a French chemist, discovered that an unknown element was present in emeralds and beryl. Attempts to isolate the new element finally succeeded in 1828 when two chemists, Friedrich Wölhler of Germany and A. Bussy of France, independently produced beryllium by reducing beryllium chloride (BeCl2) with potassium in a platinum crucible. Today, beryllium is primarily obtained from the minerals beryl (Be3Al2(SiO3)6) and bertrandite (4BeO·2SiO2·H2O) through a chemical process or through the electrolysis of a mixture of molten beryllium chloride (BeCl2) and sodium chloride (NaCl).
+-Beryllium is relatively transparent to X-rays and is used to make windows for X-ray tubes. When exposed to alpha particles, such as those emitted by radium or polonium, beryllium emits neutrons and is used as a neutron source. Beryllium is also used as a moderator in nuclear reactors.
+-Beryllium is alloyed with copper (2% beryllium, 98% copper) to form a wear resistant material, known as beryllium bronze, used in gyroscopes and other devices where wear resistance is important. Beryllium is alloyed with nickel (2% beryllium, 98% nickel) to make springs, spot-welding electrodes and non-sparking tools. Other beryllium alloys are used in the windshield, brake disks and other structural components of the space shuttle.
+-Beryllium oxide (BeO), a compound of beryllium, is used in the nuclear industry and in ceramics.
+-Beryllium was once known as glucinum, which means sweet, since beryllium and many of its compounds have a sugary taste. Unfortunately for the chemists that discovered this particular property, beryllium and many of its compounds are poisonous and should never be tasted or ingested.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\ABE.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>5</eid>
+    <name>Mg</name>
+    <fname>Magnesium Element</fname>
+    <atomicweight>24.305</atomicweight>
+    <meltingpoint>923 K (650°C or 1202°F)</meltingpoint>
+    <boilingpoint>1363 K (1090°C or 1994°F)</boilingpoint>
+    <density>1.74 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Metal</classification>
+    <periodnumber>3</periodnumber>
+    <groupnumber>2</groupnumber>
+    <groupname>Alkaline Earth Metal</groupname>
+    <historyanduses>
+-Although it is the eighth most abundant element in the universe and the seventh most abundant element in the earth's crust, magnesium is never found free in nature. Magnesium was first isolated by Sir Humphry Davy, an English chemist, through the electrolysis of a mixture of magnesium oxide (MgO) and mercuric oxide (HgO) in 1808. Today, magnesium can be extracted from the minerals dolomite (CaCO3·MgCO3) and carnallite (KCl·MgCl2·6H2O), but is most often obtained from seawater. Every cubic kilometer of seawater contains about 1.3 billion kilograms of magnesium (12 billion pounds per cubic mile).
+-Magnesium burns with a brilliant white light and is used in pyrotechnics, flares and photographic flashbulbs. Magnesium is the lightest metal that can be used to build things, although its use as a structural material is limited since it burns at relatively low temperatures. Magnesium is frequently alloyed with aluminum, which makes aluminum easier to roll, extrude and weld. Magnesium-aluminum alloys are used where strong, lightweight materials are required, such as in airplanes, missiles and rockets. Cameras, horseshoes, baseball catchers' masks and snowshoes are other items that are made from magnesium alloys.
+-Magnesium oxide (MgO), also known as magnesia, is the second most abundant compound in the earth's crust. Magnesium oxide is used in some antacids, in making crucibles and insulating materials, in refining some metals from their ores and in some types of cements. When combined with water (H2O), magnesia forms magnesium hydroxide (Mg(OH)2), better known as milk of magnesia, which is commonly used as an antacid and as a laxative.
+-Hydrated magnesium sulphate (MgSO4·7H2O), better known as Epsom salt, was discovered in 1618 by a farmer in Epsom, England, when his cows refused to drink the water from a certain mineral well. He tasted the water and found that it tasted very bitter. He also noticed that it helped heal scratches and rashes on his skin. Epsom salt is still used today to treat minor skin abrasions.
+-Other magnesium compounds include magnesium carbonate (MgCO3) and magnesium fluoride (MgF2). Magnesium carbonate is used to make some types of paints and inks and is added to table salt to prevent caking. A thin film of magnesium fluoride is applied to optical lenses to help reduce glare and reflections.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\AMG.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>6</eid>
+    <name>Sc</name>
+    <fname>Scandium Element</fname>
+    <atomicweight>44.955908</atomicweight>
+    <meltingpoint>1814 K (1541°C or 2806°F)</meltingpoint>
+    <boilingpoint>3109 K (2836°C or 5137°F)</boilingpoint>
+    <density>2.99 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Metal</classification>
+    <periodnumber>4</periodnumber>
+    <groupnumber>3</groupnumber>
+    <groupname>none</groupname>
+    <historyanduses>
+-Scandium was discovered by Lars Fredrik Nilson, a Swedish chemist, in 1879 while attempting to produce a sample of pure ytterbia from 10 kilograms of the mineral euxenite ((Y, Ca, Er, La, Ce, U, Th)(Nb, Ta, Ti)2O6). Scandium can be obtained from the minerals thortveitite ((Sc, Y)2Si2O7), bazzite (Be3(Sc, Al)2Si6O18) and wiikite, but is usually obtained as a byproduct of refining uranium.
+-Metallic scandium was first produced in 1937 and the first pound (0.45 kilograms) of pure scandium was produced in 1960. Scandium is a soft, light metal that might have applications in the aerospace industry. With a cost of $270 per gram ($122,500 per pound), scandium is too expensive for widespread use.
+-Alloys of scandium and aluminum are used in some kinds of athletic equipment, such as aluminum baseball bats, bicycle frames and lacrosse sticks. It is expected that scandium-aluminum alloys will be important in the manufacture of fuel cells.
+-Scientists have only studied a few compounds of scandium. About 20 kilograms (44 pounds) of scandium oxide (Sc2O3), also known as scandia, are used each year in the United States in the production of high intensity lights. Scandium iodide (ScI3) is added to mercury vapor lamps so that they will emit light that closely resembles sunlight.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\ASC.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>7</eid>
+    <name>Y</name>
+    <fname>Yttrium Element</fname>
+    <atomicweight>88.90584</atomicweight>
+    <meltingpoint>1795 K (1522°C or 2772°F)</meltingpoint>
+    <boilingpoint>3618 K (3345°C or 6053°F)</boilingpoint>
+    <density>4.47 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Metal</classification>
+    <periodnumber>5</periodnumber>
+    <groupnumber>3</groupnumber>
+    <groupname>none</groupname>
+    <historyanduses>
+-Yttrium was discovered by Johan Gadolin, a Finnish chemist, while analyzing the composition of the mineral gadolinite ((Ce, La, Nd, Y)2FeBe2Si2O10) in 1789. Gadolinite, which was named for Johan Gadolin, was discovered several years earlier in a quarry near the town of Ytterby, Sweden. Today, yttrium is primarily obtained through an ion exchange process from monazite sand ((Ce, La, Th, Nd, Y)PO4), a material rich in rare earth elements.
+-Although metallic yttrium is not widely used, several of its compounds are.
+-Yttrium oxide (Y2O3) and yttrium orthovanadate (YVO4) are both combined with europium to produce the red phosphor used in color televisions. 
+-Garnets made from yttrium and iron (Y3Fe5O12) are used as microwave filters in microwave communications equipment.
+-Garnets made from yttrium and aluminum (Y3Al5O12) are used in jewelry as simulated diamond.
+</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\AY.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>8</eid>
+    <name>Al</name>
+    <fname>Aluminium Element</fname>
+    <atomicweight>26.9815385</atomicweight>
+    <meltingpoint>933.437 K (660.323°C or 1220.581°F)</meltingpoint>
+    <boilingpoint>2792 K (2519°C or 4566°F)</boilingpoint>
+    <density>2.70 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Metal</classification>
+    <periodnumber>3</periodnumber>
+    <groupnumber>13</groupnumber>
+    <groupname>none</groupname>
+    <historyanduses>
+-Although aluminum is the most abundant metal in the earth's crust, it is never found free in nature. 
+-All of the earth's aluminum has combined with other elements to form compounds. 
+-Two of the most common compounds are alum, such as potassium aluminum sulfate (KAl(SO4)2·12H2O), and aluminum oxide (Al2O3). 
+-About 8.2% of the earth's crust is composed of aluminum.
+-Scientists suspected than an unknown metal existed in alum as early as 1787, but they did not have a way to extract it until 1825.
+-As a result, the price of aluminum dropped from around $1200 per kilogram in 1852 to around $40 per kilogram in 1859. Unfortunately, aluminum remained too expensive to be widely used.
+-Two important developments in the 1880s greatly increased the availability of aluminum. 
+-The first was the invention of a new process for obtaining aluminum from aluminum oxide. 
+-Charles Martin Hall, an American chemist, and Paul L. T. Héroult, a French chemist, each invented this process independently in 1886. 
+-The second was the invention of a new process that could cheaply obtain aluminum oxide from bauxite. 
+-Bauxite is an ore that contains a large amount of aluminum hydroxide (Al2O3·3H2O), along with other compounds. 
+-Karl Joseph Bayer, an Austrian chemist, developed this process in 1888. 
+-The Hall-Héroult and Bayer processes are still used today to produce nearly all of the world's aluminum.
+-With an easy way to extract aluminum from aluminum oxide and an easy way to extract large amounts of aluminum oxide from bauxite, the era of inexpensive aluminum had begun. In 1888, Hall formed the Pittsburgh Reduction Company, which is now known as the Aluminum Company of America, or Alcoa. When it opened, his company could produce about 25 kilograms of aluminum a day. By 1909, his company was producing about 41,000 kilograms of aluminum a day. As a result of this huge increase of supply, the price of aluminum fell rapidly to about $0.60 per kilogram.
+-Today, aluminum and aluminum alloys are used in a wide variety of products: cans, foils and kitchen utensils, as well as parts of airplanes, rockets and other items that require a strong, light material. Although it doesn't conduct electricity as well as copper, it is used in electrical transmission lines because of its light weight. It can be deposited on the surface of glass to make mirrors, where a thin layer of aluminum oxide quickly forms that acts as a protective coating. Aluminum oxide is also used to make synthetic rubies and sapphires for lasers.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\AAL.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>9</eid>
+    <name>Ga</name>
+    <fname>Gallium Element</fname>
+    <atomicweight>69.723</atomicweight>
+    <meltingpoint>302.91 K (29.76°C or 85.57°F)</meltingpoint>
+    <boilingpoint>2477 K (2204°C or 3999°F)</boilingpoint>
+    <density>5.91 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Metal</classification>
+    <periodnumber>4</periodnumber>
+    <groupnumber>13</groupnumber>
+    <groupname>none</groupname>
+    <historyanduses>
+-First proposed to exist by Dmitri Mendeleyev in 1871 based on gaps in his newly created Periodic Table of Elements, gallium was discovered spectroscopically by the French chemist Paul-Émile Lecoq de Boisbaudran in 1875. Later that same year, Lecoq was able to obtain pure gallium through the electrolysis of a solution of gallium hydroxide (Ga(OH)3) in potassium hydroxide (KOH). Trace amounts of gallium are found in diaspore, sphalerite, germanite and bauxite as well as in the byproducts of burning coal.
+-Gallium melts near room temperature and has one of the largest liquid ranges of any metal, so it has found use in high temperature thermometers.
+-Gallium easily forms alloys with most metals and has been used to create low melting alloys.
+-Gallium is used as a doping material for semiconductors and has been used to produce solid-state items like transistors and light emitting diodes. 
+-Gallium arsenide (GaAs) can produce laser light directly from electricity. 
+-Large amounts of gallium trichloride (GaCl3) have been gathered to build the Gallium Neutrino Observatory, an observatory located in Italy built to study particles called neutrinos which are produced inside the sun during the process of nuclear fusion.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\AGA.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>10</eid>
+    <name>C</name>
+    <fname>Carbon Element</fname>
+    <atomicweight>12.0107</atomicweight>
+    <meltingpoint>3823 K (3550°C or 6422°F)</meltingpoint>
+    <boilingpoint>4098 K (3825°C or 6917°F)</boilingpoint>
+    <density>2.2670 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Non-metal</classification>
+    <periodnumber>2</periodnumber>
+    <groupnumber>14</groupnumber>
+    <groupname>none</groupname>
+    <historyanduses>
+-Carbon, the sixth most abundant element in the universe, has been known since ancient times. 
+-Carbon is most commonly obtained from coal deposits, although it usually must be processed into a form suitable for commercial use. 
+-Three naturally occurring allotropes of carbon are known to exist: amorphous, graphite and diamond.
+-Amorphous carbon is formed when a material containing carbon is burned without enough oxygen for it to burn completely. 
+-This black soot, also known as lampblack, gas black, channel black or carbon black, is used to make inks, paints and rubber products. 
+-It is a transparent material that can split a single beam of light into two beams, a property known as birefringence. 
+-Very little is known about this form of carbon.
+-Large molecules consisting only of carbon, known as buckminsterfullerenes, or buckyballs, have recently been discovered and are currently the subject of much scientific interest. A single buckyball consists of 60 or 70 carbon atoms (C60 or C70) linked together in a structure that looks like a soccer ball. They can trap other atoms within their framework, appear to be capable of withstanding great pressures and have magnetic and superconductive properties.
+-Carbon-14, a radioactive isotope of carbon with a half-life of 5,730 years, is used to find the age of formerly living things through a process known as radiocarbon dating. The theory behind carbon dating is fairly simple. Scientists know that a small amount of naturally occurring carbon is carbon-14. Although carbon-14 decays into nitrogen-14 through beta decay, the amount of carbon-14 in the environment remains constant because new carbon-14 is always being created in the upper atmosphere by cosmic rays. Living things tend to ingest materials that contain carbon, so the percentage of carbon-14 within living things is the same as the percentage of carbon-14 in the environment. Once an organism dies, it no longer ingests much of anything. The carbon-14 within that organism is no longer replaced and the percentage of carbon-14 begins to decrease as it decays. By measuring the percentage of carbon-14 in the remains of an organism, and by assuming that the natural abundance of carbon-14 has remained constant over time, scientists can estimate when that organism died. For example, if the concentration of carbon-14 in the remains of an organism is half of the natural concentration of carbon-14, a scientist would estimate that the organism died about 5,730 years ago, the half-life of carbon-14.
+-There are nearly ten million known carbon compounds and an entire branch of chemistry, known as organic chemistry, is devoted to their study.
+-Many carbon compounds are essential for life as we know it.
+-Some of the most common carbon compounds are: carbon dioxide (CO2), carbon monoxide (CO), carbon disulfide (CS2), chloroform (CHCl3), carbon tetrachloride (CCl4), methane (CH4), ethylene (C2H4), acetylene (C2H2), benzene (C6H6), ethyl alcohol (C2H5OH) and acetic acid (CH3COOH).
+</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\ACL.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>11</eid>
+    <name>N</name>
+    <fname>Nitrogen Element</fname>
+    <atomicweight>14.00674</atomicweight>
+    <meltingpoint>63.15 K (-210.00°C or -346.00°F)</meltingpoint>
+    <boilingpoint>77.36 K (-195.79°C or -320.44°F)</boilingpoint>
+    <density>0.0012506 grams per cubic centimeter</density>
+    <phaseatroomtemp>Gas</phaseatroomtemp>
+    <classification>Non-metal</classification>
+    <periodnumber>2</periodnumber>
+    <groupnumber>15</groupnumber>
+    <groupname>Pnictogen</groupname>
+    <historyanduses>
+-Nitrogen was discovered by the Scottish physician Daniel Rutherford in 1772. 
+-It is the fifth most abundant element in the universe and makes up about 78% of the earth's atmosphere, which contains an estimated 4,000 trillion tons of the gas.
+-Nitrogen is obtained from liquefied air through a process known as fractional distillation.
+-The largest use of nitrogen is for the production of ammonia (NH3). 
+-Large amounts of nitrogen are combined with hydrogen to produce ammonia in a method known as the Haber process. 
+-Large amounts of ammonia are then used to create fertilizers, explosives and, through a process known as the Ostwald process, nitric acid (HNO3).
+-Nitrogen gas is largely inert and is used as a protective shield in the semiconductor industry and during certain types of welding and soldering operations. 
+-Oil companies use high pressure nitrogen to help force crude oil to the surface. 
+-Liquid nitrogen is an inexpensive cryogenic liquid used for refrigeration, preservation of biological samples and for low temperature scientific experimentation.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\AN.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>12</eid>
+    <name>Rn</name>
+    <fname>Radon Element</fname>
+    <atomicweight>222</atomicweight>
+    <meltingpoint>202 K (-71°C or -96°F)</meltingpoint>
+    <boilingpoint>211.45 K (-61.7°C or -79.1°F)</boilingpoint>
+    <density>0.00973 grams per cubic centimeter</density>
+    <phaseatroomtemp>Gas</phaseatroomtemp>
+    <classification>Non-metal</classification>
+    <periodnumber>6</periodnumber>
+    <groupnumber>18</groupnumber>
+    <groupname>Noble Gas</groupname>
+    <historyanduses>
+-Radon was discovered by Friedrich Ernst Dorn, a German chemist, in 1900 while studying radium's decay chain. 
+-Originally named niton after the Latin word for shining, nitens, radon has been known as radon since 1923. 
+-Today, radon is still primarily obtained through the decay of radium.
+-At normal room temperatures, radon is a colorless, odorless, radioactive gas. 
+-The most common forms of radon decay through alpha decay. 
+-Alpha decay usually isn't considered to be a great radiological hazard since the alpha particles produced by the decay are easily stopped. 
+-However, since radon is a gas, it is easily inhaled and living tissue is directly exposed to the radiation. 
+-Although it has a relatively short half-life, radon decays into longer lived, solid, radioactive elements which can collect on dust particles and be inhaled as well. For these reasons, there is some concern as to the amount of radon present within homes. Radon seeps into houses as a result of the decay of radium, thorium or uranium ores underground and varies greatly from location to location. On average, the earth's atmosphere is 0.0000000000000000001% radon.
+-When cooled to its solid state, radon glows yellow. The glow becomes orange-red as the temperature is lowered.
+-Radon's most stable isotope, radon-222, has a half-life of about 3.8 days. It decays into polonium-218 through alpha decay.
+-Small amounts of radon are sometimes used by hospitals to treat some forms of cancer.
+-Radon fluoride (RnF) is the only confirmed compound of radon.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\ARN.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>13</eid>
+    <name>Og</name>
+    <fname>Oganesson Element</fname>
+    <atomicweight>294</atomicweight>
+    <meltingpoint>Unknown</meltingpoint>
+    <boilingpoint>Unknown</boilingpoint>
+    <density>Unknown</density>
+    <phaseatroomtemp>Expected to be a Gas</phaseatroomtemp>
+    <classification>Non-metal</classification>
+    <periodnumber>7</periodnumber>
+    <groupnumber>18</groupnumber>
+    <groupname>Noble Gas</groupname>
+    <historyanduses>
+-On October 16, 2006, scientists working at the Joint Institute for Nuclear Research in Dubna, Russia, along with scientists from the U.S. Department of Energy's Lawrence Livermore National Laboratory, announced the creation of oganesson. They produced oganesson by bombarding atoms of californium-249 with ions of calcium-48. This produced oganesson-294, an isotope with a half-life of about 0.89 milliseconds (0.00089 seconds), and three free neutrons. The californium target was irradiated with a total of 1.6*1019 calcium ions over the course of 1080 hours, resulting in the production of three atoms of oganesson.
+-Oganesson's most stable isotope, oganesson-294, has a half-life of about 0.89 milliseconds. 
+-It decays into livermorium-290 through alpha decay.
+-Since only a few atoms of oganesson have ever been produced, it currently has no uses outside of basic scientific research.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\AOG.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>14</eid>
+    <name>La</name>
+    <fname>Lanthanum Element</fname>
+    <atomicweight>138.90547</atomicweight>
+    <meltingpoint>1191 K (918°C or 1684°F)</meltingpoint>
+    <boilingpoint>3737 K (3464°C or 6267°F)</boilingpoint>
+    <density>6.15 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Metal</classification>
+    <periodnumber>6</periodnumber>
+    <groupnumber>none</groupnumber>
+    <groupname>Lanthanide</groupname>
+    <historyanduses>
+-Lanthanum was discovered by Carl Gustaf Mosander, a Swedish chemist, in 1839. 
+-Mosander was searching for impurities he believed existed within samples of cerium. 
+-He treated cerium nitrate (Ce(NO3)3) with dilute nitric acid (HNO3) and found a new substance he named lanthana (La2O3). 
+-Roughly 0.0018% of the earth's crust is composed of lanthanum. 
+-Today, lanthanum is primarily obtained through an ion exchange process from monazite sand ((Ce, La, Th, Nd, Y)PO4), a material rich in rare earth elements that can contain as much as 25% lanthanum.
+-Lanthanum is one of the rare earth elements used to make carbon arc lights which are used in the motion picture industry for studio lighting and projector lights. Lanthanum also makes up about 25% of Misch metal, a material that is used to make flints for lighters. Lanthana (La2O3) is used to make the glass used in camera lenses and in other special glasses.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\ALA.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>15</eid>
+    <name>Ac</name>
+    <fname>Actinium Element</fname>
+    <atomicweight>227</atomicweight>
+    <meltingpoint>1324 K (1051°C or 1924°F)</meltingpoint>
+    <boilingpoint>3471 K (3198°C or 5788°F)</boilingpoint>
+    <density>10.07 grams per cubic centimeter</density>
+    <phaseatroomtemp>Solid</phaseatroomtemp>
+    <classification>Metal</classification>
+    <periodnumber>7</periodnumber>
+    <groupnumber>none</groupnumber>
+    <groupname>Actinide</groupname>
+    <historyanduses>
+-Actinium was discovered in 1899 by André-Louis Debierne, a French chemist, while experimenting with new methods of separating rare earth oxides. 
+-Friedrich Otto Giesel independently discovered actinium in 1902.
+-Actinium is a rare element that is present in uranium ores in tiny amounts, but it is usually cheaper and easier to create actinium when it is needed by bombarding radium with neutrons in a nuclear reactor.
+-Actinium's most stable isotope, actinium-227, has a half-life of 21.77 years. 
+-It decays into francium-223 through alpha decay or into thorium-227 through beta decay.
+-Actinium has no significant commercial applications, although it is used in the production of neutrons.</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\AAC.jpg
+	</image>
+  </PT>
+  <PT>
+    <eid>ei13</eid>
+    <name>na13</name>
+    <atomicweight>aw13</atomicweight>
+    <meltingpoint>mp13</meltingpoint>
+    <boilingpoint>bp13</boilingpoint>
+    <density>de13</density>
+    <phaseatroomtemp>ph13</phaseatroomtemp>
+    <classification>cl13</classification>
+    <periodnumber>pn13</periodnumber>
+    <groupnumber>gn13</groupnumber>
+    <groupname>gna13</groupname>
+    <historyanduses>hu13</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\H.png
+	</image>
+  </PT>
+  <PT>
+    <eid>ei14</eid>
+    <name>na14</name>
+    <atomicweight>aw14</atomicweight>
+    <meltingpoint>mp14</meltingpoint>
+    <boilingpoint>bp14</boilingpoint>
+    <density>de14</density>
+    <phaseatroomtemp>ph14</phaseatroomtemp>
+    <classification>cl14</classification>
+    <periodnumber>pn14</periodnumber>
+    <groupnumber>gn14</groupnumber>
+    <groupname>gna14</groupname>
+    <historyanduses>hu14</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\H.png
+	</image>
+  </PT>
+  <PT>
+    <eid>ei15</eid>
+    <name>na15</name>
+    <atomicweight>aw15</atomicweight>
+    <meltingpoint>mp15</meltingpoint>
+    <boilingpoint>bp15</boilingpoint>
+    <density>de15</density>
+    <phaseatroomtemp>ph15</phaseatroomtemp>
+    <classification>cl15</classification>
+    <periodnumber>pn15</periodnumber>
+    <groupnumber>gn15</groupnumber>
+    <groupname>gna15</groupname>
+    <historyanduses>hu15</historyanduses>
+    <image>
+	"N:\\H.png"
+	</image>
+  </PT>
+  <PT>
+    <eid>ei16</eid>
+    <name>na16</name>
+    <atomicweight>aw16</atomicweight>
+    <meltingpoint>mp16</meltingpoint>
+    <boilingpoint>bp16</boilingpoint>
+    <density>de16</density>
+    <phaseatroomtemp>ph16</phaseatroomtemp>
+    <classification>cl16</classification>
+    <periodnumber>pn16</periodnumber>
+    <groupnumber>gn16</groupnumber>
+    <groupname>gna16</groupname>
+    <historyanduses>hu16</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\H.png
+	</image>
+  </PT>
+  <PT>
+    <eid>ei17</eid>
+    <name>na17</name>
+    <atomicweight>aw17</atomicweight>
+    <meltingpoint>mp17</meltingpoint>
+    <boilingpoint>bp17</boilingpoint>
+    <density>de17</density>
+    <phaseatroomtemp>ph17</phaseatroomtemp>
+    <classification>cl17</classification>
+    <periodnumber>pn17</periodnumber>
+    <groupnumber>gn17</groupnumber>
+    <groupname>gna17</groupname>
+    <historyanduses>hu17</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\H.png
+	</image>
+  </PT>
+  <PT>
+    <eid>ei18</eid>
+    <name>na18</name>
+    <atomicweight>aw18</atomicweight>
+    <meltingpoint>mp18</meltingpoint>
+    <boilingpoint>bp18</boilingpoint>
+    <density>de18</density>
+    <phaseatroomtemp>ph18</phaseatroomtemp>
+    <classification>cl18</classification>
+    <periodnumber>pn18</periodnumber>
+    <groupnumber>gn18</groupnumber>
+    <groupname>gna18</groupname>
+    <historyanduses>hu18</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\H.png
+	</image>
+  </PT>
+  <PT>
+    <eid>ei19</eid>
+    <name>na19</name>
+    <atomicweight>aw19</atomicweight>
+    <meltingpoint>mp19</meltingpoint>
+    <boilingpoint>bp19</boilingpoint>
+    <density>de19</density>
+    <phaseatroomtemp>ph19</phaseatroomtemp>
+    <classification>cl19</classification>
+    <periodnumber>pn19</periodnumber>
+    <groupnumber>gn19</groupnumber>
+    <groupname>gna19</groupname>
+    <historyanduses>hu19</historyanduses>
+    <image>
+	C:\Users\tanay\OneDrive\Dokumente\ACS\Elemental (2)\Elemental\Elemental\H.png
+	</image>
+  </PT>
+</ArrayOfPT>

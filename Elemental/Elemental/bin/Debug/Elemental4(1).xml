@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<ArrayOfBL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BL>
+    <name>S Block Elements</name>
+    <image>\\Mac\Home\Documents\SBlock1.png</image>
+    <prop>Properities of S-Block Elements</prop>
+    <info>The s block elements having only one electron in their s-orbital are called group one or 
+alkali metals whereas the s block elements having two electrons filling their s-orbital are called 
+group two or alkaline earth metals.
+Both alkali and alkaline earth elements show a regular gradation in their properties among their respective group elements. 
+But the first member of both S block elements, namely, Lithium and Beryllium differ much from the rest of their members but at the same time, they resemble more with the diagonal element present in the next column.
+The anomaly of these S block elements is due to:
+1. Low atomic and ionic size
+2. Greater charge density (charge/volume of the atom)
+3. Greater polarization
+4. Absence of d-orbitals.
+5. Greater polarization of s block elements makes the first element more covalent and 
+differentiates them from the rest which are ionic.
+
+The similarity in size and charge density makes them resemble the element diagonally placed in the next group 
+(diagonal relationship).
+</info>
+  </BL>
+  <BL>
+    <name>P Block Elements</name>
+    <image />
+    <prop>Properities of P-Block Elements</prop>
+    <info />
+  </BL>
+  <BL>
+    <name>D Block Elements</name>
+    <image>N://Alkali.png</image>
+    <prop>Properities of D-Block Elements</prop>
+    <info />
+  </BL>
+  <BL>
+    <name>F Block Elements</name>
+    <image />
+    <prop>Properities of F-Block Elements</prop>
+    <info />
+  </BL>
+</ArrayOfBL>

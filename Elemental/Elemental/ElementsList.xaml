@@ -1,0 +1,45 @@
+﻿<Window x:Class="Elemental.ElementsList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elemental"
+        mc:Ignorable="d"
+         Loaded="Window_Loaded"
+        Title="ElementsList" Height="700" Width="800">
+    <ScrollViewer  HorizontalScrollBarVisibility="Auto">
+        <Grid>
+
+            <TextBlock Name="txt_3" Height="30" TextAlignment="Center" Background="#FFE8E8E8"  FontSize="19" FontFamily="Century Gothic"  TextWrapping="Wrap" Margin="37,10,36,1177" FontWeight="Bold" TextDecorations="Underline"/>
+
+            <TextBlock TextWrapping="Wrap" FontWeight="Bold" Text="Symbol:" Height="30" FontSize="18" FontFamily="Century Gothic" Width="77" HorizontalAlignment="Left" Margin="37,49,0,1138"/>
+            <TextBlock Name="txt_1"  Height="30" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="119,49,297,1138" />
+            <TextBlock TextWrapping="Wrap" FontWeight="Bold" Height="30" FontSize="18" FontFamily="Century Gothic" Width="174" HorizontalAlignment="Left"  Margin="37,79,0,1108" RenderTransformOrigin="0.449,-1.059"><Run Text="Atomic Number"/><Run Text=":"/></TextBlock>
+            <TextBlock x:Name="txt_2"  Height="30" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="186,84,230,1103"  />
+            <TextBlock TextWrapping="Wrap" FontWeight="Bold" Height="30" FontSize="18" FontFamily="Century Gothic" Width="174" HorizontalAlignment="Left"  Margin="37,114,0,1073"><Run Text="Atomic "/><Run Text="Weight"/><Run Text=":"/></TextBlock>
+            <TextBlock x:Name="txt_4"  Height="30" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="186,114,230,1073"  />
+            <TextBlock TextWrapping="Wrap" Height="30" FontWeight="Bold" FontSize="18" FontFamily="Century Gothic" Width="126" HorizontalAlignment="Left"  Margin="37,149,0,1038"><Run Text="Boiling Point"/><Run Text=":"/></TextBlock>
+            <TextBlock x:Name="txt_5"  Height="30" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="163,144,253,1043"  />
+            <TextBlock TextWrapping="Wrap" Height="30" FontWeight="Bold" FontSize="18" FontFamily="Century Gothic" Width="126" HorizontalAlignment="Left"  Margin="37,184,0,1003"><Run Text="Meilting"/><Run Text=" Point"/><Run Text=":"/></TextBlock>
+            <TextBlock x:Name="txt_6"  Height="30" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="163,184,253,1003"  />
+            <TextBlock TextWrapping="Wrap" Height="30" FontWeight="Bold" FontSize="18" FontFamily="Century Gothic" Width="126" HorizontalAlignment="Left"  Margin="37,219,0,968" RenderTransformOrigin="0.489,-0.858"><Run Text="Density"/><Run Text=":"/></TextBlock>
+            <TextBlock x:Name="txt_7"  Height="30" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="119,219,297,968"  />
+            <TextBlock TextWrapping="Wrap" Height="30" FontWeight="Bold" FontSize="18" FontFamily="Century Gothic" Width="272" HorizontalAlignment="Left"  Margin="37,256,0,931"><Run Text="Phase at Room Temp"/><Run Text="e"/><Run Text="rature"/><Run Text=":"/></TextBlock>
+            <TextBlock x:Name="txt_8"  Height="30" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="305,256,111,931"  />
+            <TextBlock TextWrapping="Wrap" Height="30" FontWeight="Bold" FontSize="18" FontFamily="Century Gothic" Width="204" HorizontalAlignment="Left"  Margin="37,291,0,896" Text="Element Classification:"/>
+            <TextBlock x:Name="txt_9" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="241,291,175,896"  />
+            <TextBlock TextWrapping="Wrap" Height="30" FontWeight="Bold" FontSize="18" FontFamily="Century Gothic" Width="144" HorizontalAlignment="Left"  Margin="37,326,0,861" Text="Period Number:"/>
+            <TextBlock x:Name="txt_10"  Height="30" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="186,326,230,861"  />
+            <TextBlock TextWrapping="Wrap" Height="30" FontWeight="Bold" FontSize="18" FontFamily="Century Gothic" Width="144" HorizontalAlignment="Left"  Margin="37,361,0,826"><Run Text="Group"/><Run Text=" Number:"/></TextBlock>
+            <TextBlock x:Name="txt_11"  Height="30" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="181,361,235,826"  />
+            <TextBlock TextWrapping="Wrap" Height="30" FontSize="18" FontWeight="Bold" FontFamily="Century Gothic" Width="144" HorizontalAlignment="Left"  Margin="37,399,0,788" RenderTransformOrigin="0.517,-1.17"><Run Text="Group"/><Run Text=" N"/><Run Text="ame"/><Run Text=":"/></TextBlock>
+            <TextBlock x:Name="txt_12"  Height="30" FontSize="18" FontFamily="Century Gothic" TextWrapping="Wrap" Margin="163,399,253,788"  />
+            <Image x:Name="txt_14" Margin="503,49,0,856" HorizontalAlignment="Left" Width="200" Loaded="txt_14_Loaded"/>
+            <StackPanel Margin="37,429,36,-225.333" Height="1013" VerticalAlignment="Top" Background="#FFE8E8E8">
+                <TextBlock TextWrapping="Wrap" Height="30" FontSize="18" FontFamily="Century Gothic" Width="166" HorizontalAlignment="Left"  Margin="0,0,0,232"><Run Text="History and Uses" FontWeight="Bold"/><Run Text=":"/></TextBlock>
+                <TextBlock x:Name="txt_13" FontSize="18" FontFamily="Century Gothic" Background="#FFE8E8E8" TextWrapping="Wrap" Margin="0,-235,0,-252" HorizontalAlignment="Left" Width="700" Height="1086" />
+
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Window>

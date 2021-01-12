@@ -1,0 +1,59 @@
+﻿<Window x:Class="Elemental.Blocks"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elemental"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="Blocks" Height="660.863" Width="800">
+    <ScrollViewer>
+        <Grid>
+            <StackPanel Margin="0,0,0,577">
+                <TextBlock Height="30" TextAlignment="Center" Background="#FFE8E8E8"  FontSize="19" FontFamily="Century Gothic"  TextWrapping="Wrap" Margin="37,10,36,1177" FontWeight="Bold" Text="Classification of Elements according to Blocks"
+                       />
+            </StackPanel>
+            <StackPanel Margin="39,58,37,1421">
+                <ListBox x:Name="Lbx_phrases" HorizontalAlignment="Left" Height="339" Width="179"  Background="#FFE8E8E8">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation ="Horizontal" 
+                        Margin="0,3,0,3">
+
+                                <TextBlock Text="{Binding name}" Height="50" TextAlignment="Center"   FontSize="19" FontFamily="Century Gothic"/>
+
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <StackPanel DataContext="{Binding ElementName=Lbx_phrases, Path=SelectedItem}" HorizontalAlignment="Left" Height="334" Margin="209,-336,0,0" Width="490" >
+                    <TextBlock Text="{Binding name}" FontWeight="Bold" Height="29" TextAlignment="Center"   FontSize="19" FontFamily="Century Gothic" Margin="0,5,0,0"/>
+                    <Image Margin="0,15,0,2" Source="{Binding image}" HorizontalAlignment="Left" Width="495" RenderTransformOrigin="0.5,0.5" Height="284" Stretch="Fill"  />
+
+
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Margin="0,402,0,0" DataContext="{Binding ElementName=Lbx_phrases, Path=SelectedItem}">
+                <TextBlock Height="30" TextAlignment="Center" Background="#FFE8E8E8"  FontSize="19" FontFamily="Century Gothic"  TextWrapping="Wrap" Margin="37,10,36,1177" FontWeight="Bold" Text="{Binding prop}"
+                       />
+                <TextBlock Height="1595" FontSize="19" FontFamily="Century Gothic"  TextWrapping="Wrap" Margin="28,-1170,45,11" Text="{Binding info}"
+                       />
+            </StackPanel>
+            <!--
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="352,-280,0,0" TextWrapping="Wrap" Text="TextBlock" Width="403" Background="White"/>
+        <StackPanel DataContext="{Binding ElementName=Lbx_phrases, Path=SelectedItem}" HorizontalAlignment="Left" Height="274" Margin="348,-280,0,0" Width="416" Background="White">
+            <TextBlock Text="{Binding word}" HorizontalAlignment="Left" Height="26" Margin="10,5,0,0" TextWrapping="Wrap" Width="162"/>
+            <TextBlock x:Name="EngWrd" Text="{Binding englishWord}" HorizontalAlignment="Left" Height="26" Margin="10,5,0,0" TextWrapping="Wrap" Width="160"/>
+            <TextBlock Text="{Binding hindiWord}" HorizontalAlignment="Left" Height="28" Margin="10,5,0,0" TextWrapping="Wrap" Width="172"/>
+            <TextBlock Text="{Binding description}" HorizontalAlignment="Left" Height="118" Margin="10,5,0,0" TextWrapping="Wrap" Width="294"/>
+            <Button x:Name="Btn_PhraseAudio" Margin="200,-280,186,0" Height="30" Click="Btn_PhraseAudio_Click" Background="White" BorderBrush="White">
+                <StackPanel Orientation="Horizontal" Height="27" Width="27">
+                    <Image Height="26" Margin="0,0,516,0" Source="" Stretch="Fill" VerticalAlignment="Top"/>
+                </StackPanel>
+            </Button>
+        
+        </StackPanel>-->
+        </Grid>
+    </ScrollViewer>
+</Window>
